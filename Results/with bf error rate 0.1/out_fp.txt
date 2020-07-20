@@ -1,0 +1,6 @@
+/home/nutanix/data/stargate-storage/disks/BTHC506502BB480MGN/metadata/cassandra/data/medusa_extentgroupidmap/extentgroupidmap-j-2333-Data.db 1 1
+/home/nutanix/data/stargate-storage/disks/BTHC506502BB480MGN/metadata/cassandra/data/medusa_extentgroupidmap/extentgroupidmap-j-2352-Data.db 1 1
+/home/nutanix/data/stargate-storage/disks/BTHC519106ZT480MGN/metadata/cassandra/data/medusa_extentgroupidmap/extentgroupidmap-j-2419-Data.db 1 1
+/home/nutanix/data/stargate-storage/disks/BTHC506502BB480MGN/metadata/cassandra/data/medusa_extentgroupidmap/extentgroupidmap-j-2428-Data.db 2 1
+/home/nutanix/data/stargate-storage/disks/BTHC506502BB480MGN/metadata/cassandra/data/medusa_extentgroupidmap/extentgroupidmap-j-2475-Data.db 1 1
+/home/nutanix/data/stargate-storage/disks/BTHC506502BB480MGN/metadata/cassandra/data/medusa_extentgroupidmap/extentgroupidmap-j-2493-Data.db 2 1

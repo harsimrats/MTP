@@ -1,0 +1,11 @@
+/home/nutanix/data/stargate-storage/disks/BTHC502000NU480MGN/metadata/cassandra/data/medusa_vdiskblockmap/vdiskblockmap-j-1-Data.db 1.0 33 1 1
+/home/nutanix/data/stargate-storage/disks/BTHC50100059480MGN/metadata/cassandra/data/medusa_vdiskblockmap/vdiskblockmap-j-4-Data.db 0.5 2 2 1
+/home/nutanix/data/stargate-storage/disks/BTHC50100059480MGN/metadata/cassandra/data/medusa_vdiskblockmap/vdiskblockmap-j-6-Data.db 0.3333333333333333 2 3 1
+/home/nutanix/data/stargate-storage/disks/BTHC50100059480MGN/metadata/cassandra/data/medusa_vdiskblockmap/vdiskblockmap-j-8-Data.db 0.25 2 4 1
+/home/nutanix/data/stargate-storage/disks/BTHC50100059480MGN/metadata/cassandra/data/medusa_vdiskblockmap/vdiskblockmap-j-10-Data.db 0.2 5 5 1
+/home/nutanix/data/stargate-storage/disks/BTHC502000NU480MGN/metadata/cassandra/data/medusa_vdiskblockmap/vdiskblockmap-j-11-Data.db 1.0 25 1 1
+/home/nutanix/data/stargate-storage/disks/BTHC50100059480MGN/metadata/cassandra/data/medusa_vdiskblockmap/vdiskblockmap-j-13-Data.db 0.14285714285714285 6 7 1
+/home/nutanix/data/stargate-storage/disks/BTHC502000NU480MGN/metadata/cassandra/data/medusa_vdiskblockmap/vdiskblockmap-j-14-Data.db 1.0 20 1 1
+/home/nutanix/data/stargate-storage/disks/BTHC50100059480MGN/metadata/cassandra/data/medusa_vdiskblockmap/vdiskblockmap-j-16-Data.db 0.1111111111111111 12 9 1
+/home/nutanix/data/stargate-storage/disks/BTHC502000NU480MGN/metadata/cassandra/data/medusa_vdiskblockmap/vdiskblockmap-j-17-Data.db 1.0 12 1 1
+/home/nutanix/data/stargate-storage/disks/BTHC50100059480MGN/metadata/cassandra/data/medusa_vdiskblockmap/vdiskblockmap-j-19-Data.db 0.09090909090909091 3 11 1

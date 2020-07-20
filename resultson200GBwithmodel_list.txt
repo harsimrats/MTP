@@ -1,0 +1,4 @@
+/home/nutanix/data/stargate-storage/disks/BTHC5203039T480MGN/metadata/cassandra/data/medusa_vdiskblockmap/vdiskblockmap-j-16-Data.db 0.041666666666666664 32 768
+/home/nutanix/data/stargate-storage/disks/BTHC5203039T480MGN/metadata/cassandra/data/medusa_vdiskblockmap/vdiskblockmap-j-22-Data.db 0.8484848484848485 28 33
+/home/nutanix/data/stargate-storage/disks/BTHC5203039T480MGN/metadata/cassandra/data/medusa_vdiskblockmap/vdiskblockmap-j-30-Data.db 2.2941176470588234 78 34
+/home/nutanix/data/stargate-storage/disks/BTHC5065036A480MGN/metadata/cassandra/data/medusa_vdiskblockmap/vdiskblockmap-j-31-Data.db 75.0 75 1
